@@ -32,7 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="test_class.cs" />
+    <Compile Include="..\..\..\..\..\..\Desktop\git-TLV\test_class.cs">
+      <Link>test_class.cs</Link>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

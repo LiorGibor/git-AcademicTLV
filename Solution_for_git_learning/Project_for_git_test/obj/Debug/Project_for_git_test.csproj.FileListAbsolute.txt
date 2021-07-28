@@ -1,0 +1,6 @@
+C:\Users\lmaim\Source\Repos\LiorGibor\git-AcademicTLV\Solution_for_git_learning\Project_for_git_test\bin\Debug\Project_for_git_test.exe
+C:\Users\lmaim\Source\Repos\LiorGibor\git-AcademicTLV\Solution_for_git_learning\Project_for_git_test\bin\Debug\Project_for_git_test.pdb
+C:\Users\lmaim\Source\Repos\LiorGibor\git-AcademicTLV\Solution_for_git_learning\Project_for_git_test\obj\Debug\Project_for_git_test.csprojAssemblyReference.cache
+C:\Users\lmaim\Source\Repos\LiorGibor\git-AcademicTLV\Solution_for_git_learning\Project_for_git_test\obj\Debug\Project_for_git_test.csproj.CoreCompileInputs.cache
+C:\Users\lmaim\Source\Repos\LiorGibor\git-AcademicTLV\Solution_for_git_learning\Project_for_git_test\obj\Debug\Project_for_git_test.exe
+C:\Users\lmaim\Source\Repos\LiorGibor\git-AcademicTLV\Solution_for_git_learning\Project_for_git_test\obj\Debug\Project_for_git_test.pdb

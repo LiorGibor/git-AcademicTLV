@@ -7,6 +7,6 @@ class program
 {
     public static void Main()
     {
-        Console.WriteLine("hello change");
+        Console.WriteLine("hello everyone");
     }
 }
